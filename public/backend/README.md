@@ -1,61 +1,208 @@
-# Kaiadmin Lite - Free Bootstrap 5 Admin Dashboard
-![kaiadminlitethumb (1)](https://github.com/Hizrian/kaiadmin-lite/assets/10692084/4793c6b9-7991-4502-8633-14d9ed0ea486)
+# <a href="https://demos.adminmart.com/free/bootstrap/modernize-bootstrap-lite/src/html/index.html">SeoDash Free Bootstrap</a>
+SeoDash Bootstrap 5 admin Template
 
-This time, I want to introduce you Kaiadmin Lite – a free Bootstrap 5 Admin Dashboard built to easily manage and visualize business data.
-
-With Kaiadmin Lite, you can complete development faster with no design skills required. Save 1000s of hours of designing and coding work, as we've already done that for you.
-
-Don't worry about getting started – we've documented how to get started using this dashboard template and utilizing the available components and plugins, making it easy to leverage the full potential of Kaiadmin Bootstrap 5 Admin Dashboard.
-
-**Product Detail** : https://themekita.com/kaiadmin-lite-bootstrap-5-dashboard.html
-
-**Live Preview** : https://themekita.com/demo-kaiadmin-lite-bootstrap-dashboard/livepreview/demo1/
-
-# Get Kaiadmin PRO
-
-![bg_themekitacom](https://github.com/Hizrian/kaiadmin-lite/assets/10692084/195bfcb3-f587-4920-bfba-a583244116ad)
-[Product Detail](https://themekita.com/demo-kaiadmin-pro-bootstrap-dashboard/) |  [Buy This](https://themekita.lemonsqueezy.com/buy/526b603e-8eb3-4dcb-a7a3-842375952df5)
-
-***
-### [Kaiadmin - Classic Dashboard](https://themekita.com/demo-kaiadmin-pro-bootstrap-dashboard/livepreview/examples/demo1/)
-![Kaiadmin - Classic Dashboard](https://github.com/Hizrian/kaiadmin-lite/assets/10692084/106e027a-4ffe-4856-b729-0e6939c0473d)
-
-***
-### [Kaiadmin - White Classic Dashboard](https://themekita.com/demo-kaiadmin-pro-bootstrap-dashboard/livepreview/examples/demo2/)
-![Kaiadmin - White Classic Dashboard](https://github.com/Hizrian/kaiadmin-lite/assets/10692084/ab70a0f7-116d-46ad-9037-a4081b0db763)
-
-***
-### [Kaiadmin - Dark Dashboard](https://themekita.com/demo-kaiadmin-pro-bootstrap-dashboard/livepreview/examples/demo3/)
-![Kaiadmin - Dark Dashboard](https://github.com/Hizrian/kaiadmin-lite/assets/10692084/1a645dc4-d150-45d7-9883-1955b0666d18)
-
-***
-### [Kaiadmin - Creative Dashboard](https://themekita.com/demo-kaiadmin-pro-bootstrap-dashboard/livepreview/examples/demo4/)
-![Kaiadmin - Creative Dashboard](https://github.com/Hizrian/kaiadmin-lite/assets/10692084/fccc0204-3cb7-45dd-b0a5-532c57af3c12)
-
-***
-### [Kaiadmin - Trendy Dashboard](https://themekita.com/demo-kaiadmin-pro-bootstrap-dashboard/livepreview/examples/demo5/)
-![Kaiadmin - Trendy Dashboard](https://github.com/Hizrian/kaiadmin-lite/assets/10692084/bd9d4ce8-08a3-48bd-975e-3d77e5c51388)
-
-***
-### [Kaiadmin - Trendy 2 Dashboard](https://themekita.com/demo-kaiadmin-pro-bootstrap-dashboard/livepreview/examples/demo6/)
-![Kaiadmin - Trendy 2 Dashboard](https://github.com/Hizrian/kaiadmin-lite/assets/10692084/3cdd531f-16e0-4c4e-bfbd-89f80d3a25fe)
-
-***
-### [Kaiadmin - Horizontal Dashboard](https://themekita.com/demo-kaiadmin-pro-bootstrap-dashboard/livepreview/examples/demo7/)
-![Kaiadmin - Horizontal Dashboard](https://github.com/Hizrian/kaiadmin-lite/assets/10692084/2cac93cc-2542-43d9-9072-8625bdd2f8ad)
-
-***
-### [Kaiadmin - Enterprise Dashboard](https://themekita.com/demo-kaiadmin-pro-bootstrap-dashboard/livepreview/examples/demo8/)
-![Kaiadmin - Enterprise Dashboard](https://github.com/Hizrian/kaiadmin-lite/assets/10692084/ce2aa3f8-1f62-4ca1-87cd-111b74e50940)
-
-***
-### [Kaiadmin - Futuristic Dashboard](https://themekita.com/demo-kaiadmin-pro-bootstrap-dashboard/livepreview/examples/demo9/)
-![Kaiadmin - Futuristic Dashboard](https://github.com/Hizrian/kaiadmin-lite/assets/10692084/83f79f3d-d248-4d01-ac15-9c98bee3ca9f)
+<!-- Main image of Template -->
+<a target="_blank" href="https://adminmart.com/product/modernize-free-bootstrap-5-admin-template/?ref=5">
+  <img src="https://adminmart.com/wp-content/uploads/2024/06/SEODash-Bootstrap_light.jpg" />
+</a>
 
 
+# Compare with Premium Version 🌓
+
+<table>
+<thead>
+<tr>
+<th>SeoDash Bootstrap Free Version</th>
+<th>SeoDash Bootstrap Pro Version</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>
+    <a href="https://demos.adminmart.com/free/bootstrap/modernize-bootstrap-lite/src/html/index.html">Live Preview</a>
+  </td>
+  <td>
+  <a href="https://bootstrapdemos.adminmart.com/modernize/dist/main/index.html">Live Preview</a>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="https://adminmart.com/product/modernize-free-bootstrap-5-admin-template/?ref=5">Download Now</a>
+  </td>
+  <td>
+    <a href="https://adminmart.com/product/modernize-bootstrap-5-admin-template/?ref=5">Purchase Now</a>
+  </td>
+</tr>
+<tr>
+  <td>
+  1 Basic Dashboard
+  </td>
+  <td>
+  3+ Stunning Dashboards
+  </td>
+</tr>
+<tr>
+  <td>
+  -
+  </td>
+  <td>
+  Dashboard Figma Files
+  </td>
+</tr>
+<tr>
+  <td>
+  Bootstrap 5 Version
+  </td>
+  <td>
+  Bootstrap 5 Version
+  </td>
+</tr>
+<tr>
+  <td>
+  Fully Responsive Pages
+  </td>
+  <td>
+  Fully Responsive Pages
+  </td>
+</tr>
+<tr>
+  <td>
+  10+ Pages Template
+  </td>
+  <td>
+  425+ Page Templates
+  </td>
+</tr>
+<tr>
+  <td>
+  5+ UI Components
+  </td>
+  <td>
+  100+ UI Components
+  </td>
+</tr>
+<tr>
+  <td>
+  No Documentation
+  </td>
+  <td>
+  Documentation Provided
+  </td>
+</tr>
+<tr>
+  <td>
+  SCSS Base CSS
+  </td>
+  <td>
+  SCSS Base CSS
+  </td>
+</tr>
+<tr>
+  <td>
+  Easy To Customize
+  </td>
+  <td>
+  Easy To Customize
+  </td>
+</tr>
+<tr>
+  <td>
+  -
+  </td>
+  <td>
+  Right-to-Left(RTL) Verion
+  </td>
+</tr>
+<tr>
+  <td>
+  -
+  </td>
+  <td>
+  25+ Integrated Plugins
+  </td>
+</tr>
+<tr>
+  <td>
+  -
+  </td>
+  <td>
+  1 Year Premium Support
+  </td>
+</tr>
+</tbody>
+</table>
 
 
+<!-- Versions of Template -->
+# Versions
+<table>
+<thead>
+<tr>
+<th>Bootstrap</th>
+<th>React</th>
+<th>Vue</th>
+<th>Nuxt Js</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+  <a href="https://adminmart.com/product/modernize-bootstrap-5-admin-template/?ref=5" rel="nofollow" width="150px">
+    <img src="https://adminmart.com/wp-content/uploads/2024/06/seo-dash-bootstrap-admin-template.png" alt="" style="max-width:150px;">
+  </a>
+</td>
+<td>
+  <a href="https://adminmart.com/product/modernize-react-mui-dashboard-theme/?ref=5" rel="nofollow" width="150px">
+    <img src="https://adminmart.com/wp-content/uploads/2023/01/image_2023_01_26T10_19_25_019Z.png" alt="" style="max-width:150px;">
+  </a>
+</td>
+<td>
+  <a href="https://adminmart.com/product/modernize-vuetify-vue-admin-dashboard/?ref=5" rel="nofollow" width="150px">
+    <img src="https://adminmart.com/wp-content/uploads/2023/02/modernize-vuetify-admin-dashboard.png" alt="" style="max-width:150px;">
+  </a>
+</td>
+  <td>
+  <a href="https://adminmart.com/product/modernize-nuxt-js-admin-dashboard/?ref=5" rel="nofollow" width="150px">
+    <img src="https://adminmart.com/wp-content/uploads/2023/02/modernize-nuxt-js-admin-dashboard.png" alt="" style="max-width:150px;">
+  </a>
+</td>
+</tr>
+</tbody>
+</table>
 
 
+# Upgrade to Premium version
+
+<a target="_blank" href="https://adminmart.com/product/modernize-bootstrap-5-admin-template/?ref=5">
+  <img src="https://adminmart.com/wp-content/uploads/2024/06/seo-dash-bootstrap-admin-template.png" alt="">
+</a>
+<p>
+  Checkout our premium version of SeoDash Bootstrap Admin Lite for lots more features and ready to use page templates.<br>
+  <a href="https://bootstrapdemos.adminmart.com/modernize/dist/main/index.html">Check Live Preview</a> | <a href="https://adminmart.com/product/modernize-bootstrap-5-admin-template/?ref=5">Download</a>
+</p>
 
 
+<!-- Useful Links of Template -->
+# Useful Links
+- <p><a href="https://adminmart.com/?ref=5">Admin Theme</a> from Adminmart</p>
+- <p><a href="https://adminmart.com/product/modernize-bootstrap-5-admin-template/?ref=5">Bootstrap Themes</a> from Adminmart</p>
+- <p><a href="https://adminmart.com/product/modernize-free-bootstrap-5-admin-template/?ref=5">Free Bootstrap Admin Templates</a> from Adminmart</p>
+- <p><a href="https://adminmart.com/product/modernize-react-mui-dashboard-theme/?ref=5">React Bootstrap Template</a> from Adminmart</p>
+- <p><a href="https://adminmart.com/product/modernize-vuetify-vue-admin-dashboard/?ref=5">Vuejs Templates</a> from Adminmart</p>
+
+
+<!-- Licensing of Template -->
+# Licensing
+- <p>Copyright 2023 Adminmart <a href="https://adminmart.com/?ref=5">https://adminmart.com/</a></p>
+- <p>Licensed under MIT <a href="https://adminmart.com/license/?ref=5">https://adminmart.com/license/</a></p>
+
+
+<!-- Social Media of Adminmart -->
+# Social Media 👭🏼
+- <p>Facebook: <a href="https://www.facebook.com/official.adminmart/?ref=5">https://www.facebook.com/official.adminmart</a></p>
+- <p>Linkedin: <a href="https://www.linkedin.com/in/admin-mart-5ba892249/?ref=5">https://www.linkedin.com/in/admin-mart-5ba892249/</a></p>
+- <p>Github: <a href="https://github.com/adminmart/?ref=5">https://github.com/adminmart</a></p>
+- <p>Instagram: <a href="https://www.instagram.com/adminmart.official/?ref=5">https://www.instagram.com/adminmart.official/</a></p>
+- <p>Quora: <a href="https://www.quora.com/profile/Adminmart/?ref=5">https://www.quora.com/profile/Adminmart</a></p>
+- <p>Stack-Overflow: <a href="https://stackoverflow.com/users/20055119/adminmart/?ref=5">https://stackoverflow.com/users/20055119/adminmart</a></p>
+- <p>Reddit: <a href="https://www.reddit.com/user/adminmart/?ref=5">https://www.reddit.com/user/adminmart</a></p>
