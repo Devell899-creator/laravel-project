@@ -1,208 +1,105 @@
-# <a href="https://demos.adminmart.com/free/bootstrap/modernize-bootstrap-lite/src/html/index.html">SeoDash Free Bootstrap</a>
-SeoDash Bootstrap 5 admin Template
+# [AdminLTE - Bootstrap 4 Admin Dashboard](https://adminlte.io)
 
-<!-- Main image of Template -->
-<a target="_blank" href="https://adminmart.com/product/modernize-free-bootstrap-5-admin-template/?ref=5">
-  <img src="https://adminmart.com/wp-content/uploads/2024/06/SEODash-Bootstrap_light.jpg" />
-</a>
+[![npm version](https://img.shields.io/npm/v/admin-lte/latest.svg)](https://www.npmjs.com/package/admin-lte)
+[![Packagist](https://img.shields.io/packagist/v/almasaeed2010/adminlte.svg)](https://packagist.org/packages/almasaeed2010/adminlte)
+[![cdn version](https://data.jsdelivr.com/v1/package/npm/admin-lte/badge)](https://www.jsdelivr.com/package/npm/admin-lte)
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/from-referrer/)
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/ColorlibHQ/AdminLTE)
+[![Discord Invite](https://img.shields.io/badge/discord-join%20now-green)](https://discord.gg/jfdvjwFqfz)
 
+**AdminLTE** is a fully responsive administration template. Based on **[Bootstrap 4.6](https://getbootstrap.com/)** framework and also the JS/jQuery plugin.
+Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops.
 
-# Compare with Premium Version 🌓
+**Preview on [AdminLTE.io](https://adminlte.io/themes/v3)**
 
-<table>
-<thead>
-<tr>
-<th>SeoDash Bootstrap Free Version</th>
-<th>SeoDash Bootstrap Pro Version</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td>
-    <a href="https://demos.adminmart.com/free/bootstrap/modernize-bootstrap-lite/src/html/index.html">Live Preview</a>
-  </td>
-  <td>
-  <a href="https://bootstrapdemos.adminmart.com/modernize/dist/main/index.html">Live Preview</a>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="https://adminmart.com/product/modernize-free-bootstrap-5-admin-template/?ref=5">Download Now</a>
-  </td>
-  <td>
-    <a href="https://adminmart.com/product/modernize-bootstrap-5-admin-template/?ref=5">Purchase Now</a>
-  </td>
-</tr>
-<tr>
-  <td>
-  1 Basic Dashboard
-  </td>
-  <td>
-  3+ Stunning Dashboards
-  </td>
-</tr>
-<tr>
-  <td>
-  -
-  </td>
-  <td>
-  Dashboard Figma Files
-  </td>
-</tr>
-<tr>
-  <td>
-  Bootstrap 5 Version
-  </td>
-  <td>
-  Bootstrap 5 Version
-  </td>
-</tr>
-<tr>
-  <td>
-  Fully Responsive Pages
-  </td>
-  <td>
-  Fully Responsive Pages
-  </td>
-</tr>
-<tr>
-  <td>
-  10+ Pages Template
-  </td>
-  <td>
-  425+ Page Templates
-  </td>
-</tr>
-<tr>
-  <td>
-  5+ UI Components
-  </td>
-  <td>
-  100+ UI Components
-  </td>
-</tr>
-<tr>
-  <td>
-  No Documentation
-  </td>
-  <td>
-  Documentation Provided
-  </td>
-</tr>
-<tr>
-  <td>
-  SCSS Base CSS
-  </td>
-  <td>
-  SCSS Base CSS
-  </td>
-</tr>
-<tr>
-  <td>
-  Easy To Customize
-  </td>
-  <td>
-  Easy To Customize
-  </td>
-</tr>
-<tr>
-  <td>
-  -
-  </td>
-  <td>
-  Right-to-Left(RTL) Verion
-  </td>
-</tr>
-<tr>
-  <td>
-  -
-  </td>
-  <td>
-  25+ Integrated Plugins
-  </td>
-</tr>
-<tr>
-  <td>
-  -
-  </td>
-  <td>
-  1 Year Premium Support
-  </td>
-</tr>
-</tbody>
-</table>
+## Looking for Premium Templates?
+
+AdminLTE.io just opened a new premium templates page. Hand picked to ensure the best quality and the most affordable
+prices. Visit <https://adminlte.io/premium> for more information.
+
+!["AdminLTE Presentation"](https://adminlte.io/AdminLTE3.png "AdminLTE Presentation")
+
+**AdminLTE** has been carefully coded with clear comments in all of its JS, SCSS and HTML files.
+SCSS has been used to increase code customizability.
+
+## Quick start
+There are multiple ways to install AdminLTE.
+
+### Download & Changelog:
+Always Recommended to download from GitHub latest release [AdminLTE 3](https://github.com/ColorlibHQ/AdminLTE/releases/latest) for bug free and latest features.\
+Visit the [releases](https://github.com/ColorlibHQ/AdminLTE/releases) page to view the changelog.\
+Legacy Releases are [AdminLTE 2](https://github.com/ColorlibHQ/AdminLTE/releases/tag/v2.4.18) / [AdminLTE 1](https://github.com/ColorlibHQ/AdminLTE/releases/tag/1.3.1).
+
+## Stable release
+### Grab from [jsdelivr](https://www.jsdelivr.com/package/npm/admin-lte) CDN:
+_**Important Note**: You needed to add separately cdn links for plugins in your project._
+```html
+<script src="https://cdn.jsdelivr.net/npm/admin-lte@3.2/dist/js/adminlte.min.js"></script>
+```
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/admin-lte@3.2/dist/css/adminlte.min.css">
+```
+### Using The Command Line:
+_**Important Note**: To install it via npm/Yarn, you need at least Node.js 14 or higher._
+#### Via npm
+```bash
+npm install admin-lte@^3.2 --save
+```
+#### Via Yarn
+```bash
+yarn add admin-lte@^3.2
+```
+#### Via Composer
+```bash
+composer require "almasaeed2010/adminlte=~3.2"
+```
+#### Via Git
+```bash
+git clone https://github.com/ColorlibHQ/AdminLTE.git
+```
+
+## Documentation
+
+Visit the [online documentation](https://adminlte.io/docs/3.2/) for the most
+updated guide. Information will be added on a weekly basis.
+
+## Browsers support
+
+| [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="IE / Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>IE / Edge | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Safari | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari-ios/safari-ios_48x48.png" alt="iOS Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>iOS Safari | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/samsung-internet/samsung-internet_48x48.png" alt="Samsung" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Samsung | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" alt="Opera" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Opera | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/vivaldi/vivaldi_48x48.png" alt="Vivaldi" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Vivaldi | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/electron/electron_48x48.png" alt="Electron" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Electron |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| IE10, IE11, Edge| last 2 versions| last 2 versions| last 2 versions| last 2 versions| last 2 versions| last 2 versions| last 2 versions| last 2 versions
+
+## Light Mode (Only Dark Mode Removed)
+You can use light-mode-only version, if you are not using dark mode and also file size less without dark-mode.
+
+File Location `./dist/css/alt/adminlte.light.css`
 
 
-<!-- Versions of Template -->
-# Versions
-<table>
-<thead>
-<tr>
-<th>Bootstrap</th>
-<th>React</th>
-<th>Vue</th>
-<th>Nuxt Js</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-  <a href="https://adminmart.com/product/modernize-bootstrap-5-admin-template/?ref=5" rel="nofollow" width="150px">
-    <img src="https://adminmart.com/wp-content/uploads/2024/06/seo-dash-bootstrap-admin-template.png" alt="" style="max-width:150px;">
-  </a>
-</td>
-<td>
-  <a href="https://adminmart.com/product/modernize-react-mui-dashboard-theme/?ref=5" rel="nofollow" width="150px">
-    <img src="https://adminmart.com/wp-content/uploads/2023/01/image_2023_01_26T10_19_25_019Z.png" alt="" style="max-width:150px;">
-  </a>
-</td>
-<td>
-  <a href="https://adminmart.com/product/modernize-vuetify-vue-admin-dashboard/?ref=5" rel="nofollow" width="150px">
-    <img src="https://adminmart.com/wp-content/uploads/2023/02/modernize-vuetify-admin-dashboard.png" alt="" style="max-width:150px;">
-  </a>
-</td>
-  <td>
-  <a href="https://adminmart.com/product/modernize-nuxt-js-admin-dashboard/?ref=5" rel="nofollow" width="150px">
-    <img src="https://adminmart.com/wp-content/uploads/2023/02/modernize-nuxt-js-admin-dashboard.png" alt="" style="max-width:150px;">
-  </a>
-</td>
-</tr>
-</tbody>
-</table>
+## Compile dist files
+
+To compile the dist files you need Node.js/npm, clone/download the repo then:
+
+1. `npm install` (install npm deps)
+2. _Optional:_ `npm run dev` (developer mode, autocompile with browsersync support for live demo)
+3. `npm run production` (compile css/js files)
 
 
-# Upgrade to Premium version
+## Contributing
 
-<a target="_blank" href="https://adminmart.com/product/modernize-bootstrap-5-admin-template/?ref=5">
-  <img src="https://adminmart.com/wp-content/uploads/2024/06/seo-dash-bootstrap-admin-template.png" alt="">
-</a>
-<p>
-  Checkout our premium version of SeoDash Bootstrap Admin Lite for lots more features and ready to use page templates.<br>
-  <a href="https://bootstrapdemos.adminmart.com/modernize/dist/main/index.html">Check Live Preview</a> | <a href="https://adminmart.com/product/modernize-bootstrap-5-admin-template/?ref=5">Download</a>
-</p>
+Please read through our [contributing guidelines](https://github.com/ColorlibHQ/AdminLTE/tree/master/.github/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
+
+Editor preferences are available in the [editor config](https://github.com/twbs/bootstrap/blob/main/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
 
 
-<!-- Useful Links of Template -->
-# Useful Links
-- <p><a href="https://adminmart.com/?ref=5">Admin Theme</a> from Adminmart</p>
-- <p><a href="https://adminmart.com/product/modernize-bootstrap-5-admin-template/?ref=5">Bootstrap Themes</a> from Adminmart</p>
-- <p><a href="https://adminmart.com/product/modernize-free-bootstrap-5-admin-template/?ref=5">Free Bootstrap Admin Templates</a> from Adminmart</p>
-- <p><a href="https://adminmart.com/product/modernize-react-mui-dashboard-theme/?ref=5">React Bootstrap Template</a> from Adminmart</p>
-- <p><a href="https://adminmart.com/product/modernize-vuetify-vue-admin-dashboard/?ref=5">Vuejs Templates</a> from Adminmart</p>
+## License
 
+AdminLTE is an open source project by [AdminLTE.io](https://adminlte.io) that is licensed under [MIT](https://opensource.org/licenses/MIT).
+AdminLTE.io reserves the right to change the license of future releases.
 
-<!-- Licensing of Template -->
-# Licensing
-- <p>Copyright 2023 Adminmart <a href="https://adminmart.com/?ref=5">https://adminmart.com/</a></p>
-- <p>Licensed under MIT <a href="https://adminmart.com/license/?ref=5">https://adminmart.com/license/</a></p>
+## Image Credits
 
-
-<!-- Social Media of Adminmart -->
-# Social Media 👭🏼
-- <p>Facebook: <a href="https://www.facebook.com/official.adminmart/?ref=5">https://www.facebook.com/official.adminmart</a></p>
-- <p>Linkedin: <a href="https://www.linkedin.com/in/admin-mart-5ba892249/?ref=5">https://www.linkedin.com/in/admin-mart-5ba892249/</a></p>
-- <p>Github: <a href="https://github.com/adminmart/?ref=5">https://github.com/adminmart</a></p>
-- <p>Instagram: <a href="https://www.instagram.com/adminmart.official/?ref=5">https://www.instagram.com/adminmart.official/</a></p>
-- <p>Quora: <a href="https://www.quora.com/profile/Adminmart/?ref=5">https://www.quora.com/profile/Adminmart</a></p>
-- <p>Stack-Overflow: <a href="https://stackoverflow.com/users/20055119/adminmart/?ref=5">https://stackoverflow.com/users/20055119/adminmart</a></p>
-- <p>Reddit: <a href="https://www.reddit.com/user/adminmart/?ref=5">https://www.reddit.com/user/adminmart</a></p>
+- [Pixeden](http://www.pixeden.com/psd-web-elements/flat-responsive-showcase-psd)
+- [Graphicsfuel](https://www.graphicsfuel.com/2013/02/13-high-resolution-blur-backgrounds/)
+- [Pickaface](https://pickaface.net/)
+- [Unsplash](https://unsplash.com/)
+- [Uifaces](http://uifaces.com/)

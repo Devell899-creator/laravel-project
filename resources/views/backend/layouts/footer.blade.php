@@ -1,19 +1,28 @@
-<div class="py-6 px-6 text-center">
-          <p class="mb-0 fs-4">Design and Developed by <a href="https://adminmart.com/" target="_blank"
-              class="pe-1 text-primary text-decoration-underline">AdminMart.com</a>Distributed by <a href="https://themewagon.com/" target="_blank"
-              class="pe-1 text-primary text-decoration-underline">ThemeWagon</a></p>
-        </div>
-      </div>
+<!-- Main Footer -->
+  <footer class="main-footer">
+    <strong>Copyright &copy; 2014-2021 <a href="https://adminlte.io">AdminLTE.io</a>.</strong>
+    All rights reserved.
+    <div class="float-right d-none d-sm-inline-block">
+      <b>Version</b> 3.2.0
     </div>
-  </div>
-  <script src="backend/src/assets/libs/jquery/dist/jquery.min.js"></script>
-  <script src="backend/src/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-  <script src="backend/src/assets/libs/apexcharts/dist/apexcharts.min.js"></script>
-  <script src="backend/src/assets/libs/simplebar/dist/simplebar.js"></script>
-  <script src="backend/src/assets/js/sidebarmenu.js"></script>
-  <script src="backend/src/assets/js/app.min.js"></script>
-  <script src="backend/src/assets/js/dashboard.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/iconify-icon@1.0.8/dist/iconify-icon.min.js"></script>
-</body>
+  </footer>
+</div>
+<!-- ./wrapper -->
 
+<!-- REQUIRED SCRIPTS -->
+
+<!-- jQuery -->
+<script src="backend/plugins/jquery/jquery.min.js"></script>
+<!-- Bootstrap -->
+<script src="backend/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<!-- AdminLTE -->
+<script src="backend/dist/js/adminlte.js"></script>
+
+<!-- OPTIONAL SCRIPTS -->
+<script src="backend/plugins/chart.js/Chart.min.js"></script>
+<!-- AdminLTE for demo purposes -->
+<script src="dist/js/demo.js"></script>
+<!-- AdminLTE dashboard demo (This is only for demo purposes) -->
+<script src="backend/dist/js/pages/dashboard3.js"></script>
+</body>
 </html>
