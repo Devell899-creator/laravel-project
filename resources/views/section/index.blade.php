@@ -6,16 +6,16 @@
 
 <div class="row">
 
-<!-- CREATE MEDIUM -->
+<!-- CREATE SECTION -->
 <div class="col-md-4">
 
 <div class="card shadow-lg border-0">
 
 <div class="card-header bg-primary text-white">
-<h4 class="mb-0">Create Medium</h4>
+<h4 class="mb-0">Create Section</h4>
 </div>
 
-<form action="{{ url('/medium/store') }}" method="POST">
+<form action="{{ url('/section/store') }}" method="POST">
 @csrf
 
 <div class="card-body">
@@ -26,7 +26,7 @@
 <input type="text"
 name="name"
 class="form-control"
-placeholder="Enter Medium Name"
+placeholder="Enter Section Name"
 required>
 
 </div>
@@ -43,14 +43,14 @@ required>
 
 </div>
 
-<!-- LIST MEDIUM -->
+<!-- LIST SECTION -->
 
 <div class="col-md-8">
 
 <div class="card shadow-lg border-0">
 
 <div class="card-header bg-dark text-white d-flex justify-content-between">
-<h4 class="mb-0">List Medium</h4>
+<h4 class="mb-0">List Section</h4>
 </div>
 
 <div class="card-body">
@@ -69,21 +69,21 @@ required>
 
 <tbody>
 
-@foreach($mediums as $key => $medium)
+@foreach($sections as $key => $section)
 
 <tr>
 
 <td>{{ $key+1 }}</td>
 
-<td>{{ $medium->name }}</td>
+<td>{{ $section->name }}</td>
 
 <td>
 
-<a href="/medium/edit/{{$medium->id}}" class="btn btn-primary btn-sm">
+<a href="/section/edit/{{$section->id}}" class="btn btn-primary btn-sm">
 Edit
 </a>
 
-<a href="/medium/delete/{{$medium->id}}" 
+<a href="/section/delete/{{$section->id}}" 
 class="btn btn-danger btn-sm"
 onclick="return confirm('Are you sure?')">
 Delete
