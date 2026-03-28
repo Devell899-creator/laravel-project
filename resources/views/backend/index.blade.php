@@ -59,6 +59,42 @@
                   <p>Section</p>
                 </a>
               </li>
+
+              <li class="nav-item">
+                <a href="/subject" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Subject</p>
+                </a>
+              </li>
+
+              <li class="nav-item">
+                <a href="/semester" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Semester</p>
+                </a>
+              </li>
+
+              <li class="nav-item">
+                <a href="/stream" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Stream</p>
+                </a>
+              </li>
+
+              <li class="nav-item">
+                <a href="/shift" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Shift</p>
+                </a>
+              </li>
+
+              <li class="nav-item">
+                <a href="/classes" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Class</p>
+                </a>
+              </li>
+
               <li class="nav-item">
                 <a href="./index3.html" class="nav-link active">
                   <i class="far fa-circle nav-icon"></i>
