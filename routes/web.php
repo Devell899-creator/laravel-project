@@ -9,7 +9,7 @@ use App\Http\Controllers\SubjectController;
 use App\Http\Controllers\SemesterController;
 use App\Http\Controllers\StreamController;
 use App\Http\Controllers\ShiftController;
-use App\Http\Controllers\ClassController;
+// use App\Http\Controllers\ClassController;
 
 Route::get('/', [HomeController::class, 'index'])->name('index');
 
@@ -75,12 +75,12 @@ Route::post('/shift/update/{id}', [ShiftController::class,'update']);
 
 Route::get('/shift/delete/{id}', [ShiftController::class,'destroy']);
 
-Route::get('/classes', [ClassController::class,'index']);
+// Route::get('/classes', [ClassController::class,'index']);
 
-Route::post('/classes/store', [ClassController::class,'store']);
+// Route::post('/classes/store', [ClassController::class,'store']);
 
-Route::get('/classes/edit/{id}', [ClassController::class,'edit']);
+// Route::get('/classes/edit/{id}', [ClassController::class,'edit']);
 
-Route::post('/classes/update/{id}', [ClassController::class,'update']);
+// Route::post('/classes/update/{id}', [ClassController::class,'update']);
 
-Route::get('/classes/delete/{id}', [ClassController::class,'destroy']);
+// Route::get('/classes/delete/{id}', [ClassController::class,'destroy']);
